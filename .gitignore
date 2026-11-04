@@ -1,2 +1,4 @@
 prompts/
 .DS_Store
+random-interview/
+__pycache__/
